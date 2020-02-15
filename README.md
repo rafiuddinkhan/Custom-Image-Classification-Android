@@ -22,7 +22,7 @@ Finally, after training you can export the model of your choice. I have exported
 ![Training](https://user-images.githubusercontent.com/10113553/74587740-64e11380-501c-11ea-9f39-68f2dfee19a2.gif)
 
 ## Requirements
-*   Image dataset of differenct classes(for custom training)
+*   Image dataset of different classes(for custom training)
     (you can download the fruit dataset collected:)
     [Fruit](https://drive.google.com/file/d/12fQWCDOsEY9IXvKEg3BtbMMTnd-rOjBE/view?usp=sharing)
 
