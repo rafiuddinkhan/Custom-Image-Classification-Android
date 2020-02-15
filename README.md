@@ -16,6 +16,8 @@ The training platform used for training custom image classifier is the [teachabl
 with google. This is an exciting platform for learning the deeplearning training process just at a click by just uploading the different class of dataset or using webcam, then train it quite easily.
 Finally, after training you can export the model of your choice. I have exported it to tensorflowlite version as I have to run this on android device. you can choose whatever format you want and download the model.
 
+![Training](https://user-images.githubusercontent.com/10113553/74587740-64e11380-501c-11ea-9f39-68f2dfee19a2.gif)
+
 ## Requirements
 *   Image dataset of differenct classes(for custom training)
     (you can download the fruit dataset collected:)
